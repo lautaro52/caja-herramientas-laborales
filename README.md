@@ -18,6 +18,15 @@ Si Windows dice "Windows protegió su PC": tocá **Más información** y despué
 
 La primera vez, la aplicación te pide tu nombre y una clave de IA gratuita de Google (Gemini). La carpeta **Ayuda** explica cada paso.
 
+## Cómo instalarla (Mac)
+
+1. Entrá a **[la versión para Mac](../../releases/tag/v1.0-mac)** y descargá `caja-de-herramientas-laborales-mac.zip` (unos 110 MB; puede tardar hasta 10 minutos). Funciona en Mac con chip Apple (M1, M2, M3…) y en Mac Intel, y no hace falta instalar nada más.
+2. Hacé doble clic sobre el .zip para extraerlo.
+3. Abrí la carpeta y hacé doble clic en **ABRIR CAJA DE PRACTICA.command**.
+4. Si Mac dice que no se puede abrir porque es de un "desarrollador no identificado": clic derecho (o Control + clic) sobre el archivo → **Abrir** → **Abrir**. La carpeta **Ayuda** trae el detalle y otra alternativa.
+
+> La versión para Mac es nueva y no se probó en todos los modelos. Si algo no anda, avisá al docente.
+
 ## Importante
 
 - Todo lo que genera la aplicación es un **borrador** que debe revisar un abogado. La responsabilidad profesional es de quien lo firma.
